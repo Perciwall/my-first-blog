@@ -17,3 +17,5 @@ db.sqlite3
 .vscode/
 .history/
 *.code-workspace
+
+pa_autoconfigure_django.py --python=3.8 https://github.com/Perciwall/my-first-blog.git
